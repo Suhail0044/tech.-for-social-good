@@ -1,2 +1,2 @@
 # tech.-for-social-good
-Author- Md Suhail
+Author- Md Suhail Azam
