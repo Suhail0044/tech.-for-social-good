@@ -1,1 +1,8 @@
-
+In our very first class we learned about  how a computer works inside. We talked about parts like the Address Line/Bus and Data Line/Bus.
+These parts are very important because they help the memory and CPU share information and keep the computer running smoothly.
+It was really interesting to see how all the parts are connected and work together to move and manage data inside the computer.
+One of the most exciting things we learned was how a computer understands information. We found out that computers only understand binary numbers, which are made of just 1s and 0s.
+We also learned the difference between regular numbers (decimal numbers) and binary numbers.
+Our professor showed us how to change regular numbers into binary numbers and how to change them back again. It was fun to learn something so new!
+How to change a Decimal Number to a Binary Number:
+To change 64 into binary, we kept dividing by 2 and writing down the remainders:
