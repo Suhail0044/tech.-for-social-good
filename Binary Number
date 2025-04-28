@@ -6,3 +6,21 @@ We also learned the difference between regular numbers (decimal numbers) and bin
 Our professor showed us how to change regular numbers into binary numbers and how to change them back again. It was fun to learn something so new!
 How to change a Decimal Number to a Binary Number:
 To change 64 into binary, we kept dividing by 2 and writing down the remainders:
+64 ÷ 2 = 32, remainder 0
+32 ÷ 2 = 16, remainder 0
+16 ÷ 2 = 8, remainder 0
+8 ÷ 2 = 4, remainder 0
+4 ÷ 2 = 2, remainder 0
+2 ÷ 2 = 1, remainder 0
+1 ÷ 2 = 0, remainder 1
+Then, we read the remainders from bottom to top and got 1000000.
+So, the binary form of 64 is 1000000.
+How to change a Binary Number to a Decimal Number:
+Now, to change 1000000 back into a decimal number:
+(1 × 2⁶) + (0 × 2⁵) + (0 × 2⁴) + (0 × 2³) + (0 × 2²) + (0 × 2¹) + (0 × 2⁰)
+This gives:
+64 + 0 + 0 + 0 + 0 + 0 + 0 = 64
+So, 1000000 in binary is equal to 64 in decimal.
+At the end of the class, the professor gave us one more practice question.
+We had to convert a decimal number to binary and then check our answer by converting it back to decimal. After that, the class ended.
+
